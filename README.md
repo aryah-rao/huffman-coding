@@ -85,6 +85,7 @@ output_path_compressed = h.compress()
 
 # Call the decompress method to decompress the compressed file
 output_path_decompressed = h.decompress(output_path_compressed)
+```
 
 # Time Complexity Analysis
 
